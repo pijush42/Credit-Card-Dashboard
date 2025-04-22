@@ -162,7 +162,7 @@ uery - Financial Dashboard Data.sql…]()
 ## 🔗 Related Links
 
 - [Power BI Portfolio (GitHub)](https://github.com/pijush42/PowerBi-Portfolio)
-- [Project Preview ](https://www.linkedin.com/posts/pijush-kuri-uk42_powerbi-dataanalytics-postgresql-activity-7317349798477488128-skEF?utm_source=share&utm_medium=member_desktop&rcm=ACoAACpwg2wBfiALgINQFk9F0T3pMRYn1B2aLo8))](#)
+- [Project Preview ](https://www.linkedin.com/posts/pijush-kuri-uk42_powerbi-dataanalytics-postgresql-activity-7317349798477488128-skEF?utm_source=share&utm_medium=member_desktop&rcm=ACoAACpwg2wBfiALgINQFk9F0T3pMRYn1B2aLo8))]
 - [Contact Me on LinkedIn](https://www.linkedin.com/in/pijush-kuri-uk42)
 
 ---
